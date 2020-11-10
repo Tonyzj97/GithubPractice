@@ -1,3 +1,3 @@
 # GithubPractice2 
-## Heading practice
+### Heading practice
 
